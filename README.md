@@ -1,6 +1,6 @@
 # Extended Kalman Filter Project 
 
-This project builds a Kalman filter ontop of a framework.
+This project builds a Kalman filter ontop of udacities framework and many of their code examples.
 
 ## Steps of the Kalman Filter
 
